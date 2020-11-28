@@ -1,0 +1,21 @@
+{
+    "name": "witch-gems",
+    "displayName": "Witch Gems",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Witch Gems",
+                "uiTheme": "vs-dark",
+                "path": "./Witch Gems-color-theme.json"
+            }
+        ]
+    }
+}
