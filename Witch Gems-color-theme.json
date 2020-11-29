@@ -183,7 +183,7 @@
 		"debugToolBar.background": "#363234",
 		"dropdown.background": "#363234",
 		"dropdown.foreground": "#EBEBE6",
-		"editor.background": "#000000",
+		"editor.background": "#121212",
 		"editorCursor.foreground": "#F8F8F0",
 		"editor.foreground": "#EBEBE6",
 		"editorWhitespace.foreground": "#3B3A32",
