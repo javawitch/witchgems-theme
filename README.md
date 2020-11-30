@@ -1,5 +1,5 @@
 # Witch Gems
-Witch Gems dark theme is a theme based off of the color palette for my podcast <a href="">Git Cute Podcast</a>'s brand colors.
+Witch Gems dark theme is a theme based off of the color palette for my podcast <a href="https://www.gitcutepodcast.com">Git Cute Podcast</a>'s brand colors.
 
 ## Installation
 Instructrions can be found on <a href="">Witch Gems</a>
