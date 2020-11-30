@@ -102,7 +102,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFF47F"
+				"foreground": "#ED70AC"
 			}
 		},
 		{
@@ -181,7 +181,6 @@
 		"badge.foreground": "#EBEBE6",
 		"button.background": "#ED70AC",
 		"button.foreground": "#EBEBE6",
-		"button.secondaryHoverBackground": "#ff0000",
 		"debugToolBar.background": "#363234",
 		"dropdown.background": "#363234",
 		"dropdown.foreground": "#EBEBE6",
@@ -225,7 +224,6 @@
 		"minimapSlider.activeBackground": "#363234B5",
 		"minimapSlider.background": "#FFF47FB5",
 		"minimapSlider.hoverBackground": "#FFF47FB5",
-		"notificationCenterHeader.background": "#ABED6E",
 		"notificationCenterHeader.foreground": "#EBEBE6",
 		"notifications.background": "#363234",
 		"notifications.foreground": "#EBEBE6",
@@ -238,7 +236,6 @@
 		"list.hoverForeground": "#EBEBE6",
 		"list.focusBackground": "#000000",
 		"list.focusForeground": "#EBEBE6",
-		"list.inactiveFocusBackground": "#ABED6E",
 		"list.dropBackground": "#7D7796",
 		"searchEditor.findMatchBackground": "#ABED6E",
 		"selection.background": "#c6c4cc",
