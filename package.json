@@ -13,8 +13,16 @@
         "themes": [
             {
                 "label": "Witch Gems",
+                "displayName": "Witch Gems",
                 "uiTheme": "vs-dark",
-                "path": "./Witch Gems-color-theme.json"
+                "author": {
+                    "name": "Jocelyn Harper"
+                },
+                "path": "./Witch Gems-color-theme.json",
+                "publisher": "Jocelyn Harper",
+                "version": "0.1.0",
+                "categories": ["Programming Languages, Themes, Other"],
+                "keywords:" ["Dark Theme", "Dark"],
             }
         ]
     }
