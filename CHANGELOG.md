@@ -4,6 +4,6 @@ All notable changes to the "witch-gems" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Released]
 
 - Initial release
