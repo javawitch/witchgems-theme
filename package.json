@@ -3,6 +3,14 @@
     "displayName": "Witch Gems",
     "description": "Witch Gems theme is a truly dark theme based off of the color palette for my podcast Git Cute Podcast's brand colors.",
     "version": "0.1.0",
+    "bugs": {
+        "url": "https://github.com/javawitch/witchgems-theme/issues",
+        "email": "josie@hey.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/javawitch/witchgems-theme.git"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
