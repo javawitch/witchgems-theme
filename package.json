@@ -22,7 +22,7 @@
                 "publisher": "Jocelyn Harper",
                 "version": "0.1.0",
                 "categories": ["Programming Languages, Themes, Other"],
-                "keywords:" ["Dark Theme, Dark"]
+                "keywords:": ["Dark Theme, Dark"]
             }
         ]
     }
