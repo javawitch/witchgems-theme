@@ -17,7 +17,9 @@ Instructrions can be found on <a href="https://javawitch.github.io/witchgems">Wi
 
 ## Credit
 
-Inspired by <a href="https://www.twitter.com/sailorhg">Sailorhg</a>, the creator of <a href="https://sailorhg.github.io/fairyfloss/">Fairy Floss</a>.
+* Inspired by <a href="https://www.twitter.com/sailorhg">Sailorhg</a>, the creator of <a href="https://sailorhg.github.io/fairyfloss/">Fairy Floss</a>.
+
+* Code snippet is from <a href="https://www.twitter.com/TatianaTMac">Tatiana Mac's</a> fantastic app <a href="https://www.twitter.com/SelfDefinedApp">Self Defined</a>.
 
 ## Author
 
