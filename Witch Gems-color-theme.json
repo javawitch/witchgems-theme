@@ -194,7 +194,6 @@
 		"editor.findMatchBackground": "#a37c8a",
 		"editor.findMatchHighlightBackground": "#7f5c68",
 		"editor.findRangeHighlightBackground": "#ED70AC",
-		"editorBracketMatch.background": "#FFF47F",
 		"errorForeground": "#EBEBE6",
 		"editorGroup.border": "#000000",
 		"editorGroupHeader.noTabsBackground": "#000000",

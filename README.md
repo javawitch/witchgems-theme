@@ -4,7 +4,7 @@ Witch Gems theme is a truly dark theme based off of the color palette for my pod
 ![Image of Witch Gems Dark Theme JS Example](https://i.imgur.com/puJ8daq.png)
 
 ## Installation
-Instructrions can be found on <a href="https://javawitch.github.io/witchgems">Witch Gems</a>.
+File > Preferences > Color Theme > Install Additional Color Themes...
 
 ## Upcoming Features
 * Matching Terminal theme
