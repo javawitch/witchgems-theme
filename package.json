@@ -1,28 +1,33 @@
 {
     "name": "witch-gems",
     "displayName": "Witch Gems",
-    "description": "",
-    "version": "0.0.1",
+    "description": "Witch Gems theme is a truly dark theme based off of the color palette for my podcast Git Cute Podcast's brand colors.",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.51.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Programming Languages",
+        "Other"
     ],
+    "keywords": [
+        "Dark Theme",
+        "Dark",
+        "Pink",
+        "Magical",
+        "Witch"
+    ],
+    "publisher": "Crystal Tokyo",
+    "author": {
+        "name": "Jocelyn Harper:"
+    },
     "contributes": {
         "themes": [
             {
                 "label": "Witch Gems",
-                "displayName": "Witch Gems",
                 "uiTheme": "vs-dark",
-                "author": {
-                    "name": "Jocelyn Harper"
-                },
-                "path": "./Witch Gems-color-theme.json",
-                "publisher": "Jocelyn",
-                "version": "0.1.0",
-                "categories": ["Programming Languages, Themes, Other"],
-                "keywords:": ["Dark Theme, Dark"]
+                "path": "./Witch Gems-color-theme.json"
             }
         ]
     }
