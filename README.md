@@ -1,5 +1,7 @@
 # Witch Gems
-Witch Gems dark theme is a theme based off of the color palette for my podcast <a href="https://www.gitcutepodcast.com">Git Cute Podcast</a>'s brand colors.
+Witch Gems theme is a truly dark theme based off of the color palette for my podcast <a href="https://www.gitcutepodcast.com">Git Cute Podcast</a>'s brand colors.
+
+![Image of Witch Gems Dark Theme JS Example](https://i.imgur.com/puJ8daq.png)
 
 ## Installation
 Instructrions can be found on <a href="https://javawitch.github.io/witchgems">Witch Gems</a>.
@@ -7,6 +9,7 @@ Instructrions can be found on <a href="https://javawitch.github.io/witchgems">Wi
 ## Upcoming Features
 * Matching Terminal theme
 * Light Mode
+* Coordinating Icon theme
 
 ## Requests and Issues
 * To submit a request or issue, please officially submit through Github <a href="https://github.com/javawitch/witchgems-theme/issues">here</a>.
@@ -14,8 +17,8 @@ Instructrions can be found on <a href="https://javawitch.github.io/witchgems">Wi
 
 ## Credit
 
-Inspired by <a href="https://www.twitter.com/sailorhg>Sailorhg</a>, the creator of <a href="https://sailorhg.github.io/fairyfloss/">Fairy Floss</a>.
+Inspired by <a href="https://www.twitter.com/sailorhg">Sailorhg</a>, the creator of <a href="https://sailorhg.github.io/fairyfloss/">Fairy Floss</a>.
 
 ## Author
 
-<a href="https://www.twitter.com/javavvitch>It me</a>!
+<a href="https://www.twitter.com/javavvitch">It me</a>!

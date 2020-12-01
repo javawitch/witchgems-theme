@@ -229,7 +229,6 @@
 		"list.focusForeground": "#EBEBE6",
 		"list.inactiveFocusBackground": "#7D7796",
 		"list.dropBackground": "#7D7796",
-		"searchEditor.findMatchBackground": "#FF9659",
 		"selection.background": "#c6c4cc",
 		"sideBar.background": "#363234",
 		"sideBar.dropBackground": "#363234",
