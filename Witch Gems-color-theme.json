@@ -189,7 +189,7 @@
 		"editor.foreground": "#EBEBE6",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#ED70ACB5",
-		"editorLink.activeForeground": "#C990A5",
+		"editorLink.activeForeground": "#ED70AC",
 		"editor.selectionBackground": "#ED70ACB5",
 		"editor.findMatchBackground": "#a37c8a",
 		"editor.findMatchHighlightBackground": "#7f5c68",
