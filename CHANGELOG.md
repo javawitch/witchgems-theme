@@ -7,3 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Released]
 
 - Initial release
+
+September 18, 2021
+-Fixed issue where merge conflict color and typename color are the exact same
